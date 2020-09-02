@@ -2,7 +2,7 @@
 Corona Annilation
 
 """
-#Import
+#Import required modules
 import math
 import random
 import pygame
